@@ -1,5 +1,6 @@
 ---
-title: "Sources: Why Did the Vasa Sink?"
+layout: default
+title: "Sources: Why Did the Vasa Sink? What the 1628 Inquest Actually Says"
 ---
 
 # Sources: Why Did the Vasa Sink? What the 1628 Inquest Actually Says
