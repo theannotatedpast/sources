@@ -79,7 +79,6 @@ Where sources disagree, the video presents both views.
 - Vasa's hull between pontoons at Beckholmen, 24 April 1961 – Vasamuseet – Public domain – https://commons.wikimedia.org/wiki/File:Vasa_Beckholmen_1961.jpg
 - Vasa's bow and mainmast, Vasa Museum, 2017 – Chinmayee Mishra – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Vasa_museum_Vasamuset_Stockholm_Sweden_(1).jpg
 - Carved sculptures on Vasa's side, Vasa Museum, 2017 – Hanay – CC BY-SA 3.0 – https://commons.wikimedia.org/wiki/File:Vasa_ship_by_Hanay_(9).jpg
-- Images marked "Illustration" are AI-generated and are not historical records.
 
 ## Corrections
 
