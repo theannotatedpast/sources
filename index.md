@@ -13,5 +13,6 @@ YouTube description.
 - [When Russia Took Gotland, and How Sweden Got It Back (1808)](gotland-1808/)
 - [Margaret I: How One Woman Came to Rule Denmark, Norway and Sweden](margaret-i/)
 - [The March Across the Ice That Cost Denmark Scania (1658)](crossing-of-the-belts/)
+- [Stockholm Bloodbath 1520: The King's Story vs Sweden's Propaganda](stockholm-bloodbath/)
 
 Found an error? Comment on the video with a source and we'll review it.
