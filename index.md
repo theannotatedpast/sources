@@ -15,5 +15,6 @@ YouTube description.
 - [The March Across the Ice That Cost Denmark Scania (1658)](crossing-of-the-belts/)
 - [Stockholm Bloodbath 1520: The King's Story vs Sweden's Propaganda](stockholm-bloodbath/)
 - [Was the Birka Warrior Really a Woman? What the Sources Show](birka-warrior/)
+- [Visby: The Rise and Fall of a Medieval Baltic Trading Town](visby-rise-and-fall/)
 
 Found an error? Comment on the video with a source and we'll review it.
