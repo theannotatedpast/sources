@@ -16,6 +16,7 @@ YouTube description.
 - [Stockholm Bloodbath 1520: The King's Story vs Sweden's Propaganda](stockholm-bloodbath/)
 - [Was the Birka Warrior Really a Woman? What the Sources Show](birka-warrior/)
 - [Visby: The Rise and Fall of a Medieval Baltic Trading Town](visby-rise-and-fall/)
+- [How Swedish-Speaking Åland Ended Up in Finland](aland-swedish-speaking/)
 - [Gotland, Episode 1: Ships of Stone](gotland-01-ships-of-stone/)
 
 Found an error? Comment on the video with a source and we'll review it.
