@@ -18,5 +18,6 @@ YouTube description.
 - [Visby: The Rise and Fall of a Medieval Baltic Trading Town](visby-rise-and-fall/)
 - [How Swedish-Speaking Åland Ended Up in Finland](aland-swedish-speaking/)
 - [Gotland, Episode 1: Ships of Stone](gotland-01-ships-of-stone/)
+- [Gotland, Episode 2: The Gutasaga](gotland-02-gutasaga/)
 
 Found an error? Comment on the video with a source and we'll review it.
